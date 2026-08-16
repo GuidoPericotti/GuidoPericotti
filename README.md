@@ -1,45 +1,44 @@
-👋 Hi, I'm Guido | Full Stack Developer
+# 👋 Hi, I'm Guido
 
-I build scalable web applications, robust REST APIs, and data-driven solutions with a strong focus on security, performance, and clean architecture.
-
----
-
-### 🛠️ Tech Stack
-
-* **Frontend:** React, Next.js, Vite, Tailwind CSS, HTML5, CSS3
-* **Backend:** Node.js, Express, JavaScript (ES6+), Python, Flask, C#
-* **Security & Auth:** JWT, bcrypt, Argon2, HTTPOnly Cookies
-* **Databases & Cloud:** MySQL, PostgreSQL, Firebase, Prisma, GCP (Google Cloud Platform)
-* **Tools & AI:** Git, GitHub, Postman, VS Code, Android Studio, AI Assistants (Gemini, ChatGPT, Claude)
-* **Data & Architecture:** Pandas, NumPy, Automated Workflows, RESTful APIs, MVC
+**Full Stack Developer** — building web apps, APIs and automation.
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Stack
 
-#### 🎓 Event Management Platform
-Full-stack platform for managing events, activities, registrations, and QR-based attendance.
-* **Tech:** Node.js · Express · React · PostgreSQL · Prisma · HTTPOnly Cookies
-* **Key Features:** Secure authentication flow, user/attendee management, event schedules, activity registration, and real-time QR attendance tracking.
-
-#### 🏢 Lumino Spark — Enterprise Systems & ASAMBAL
-Implementation of modular custom ERPs and corporate web platforms (management panels, administrative dashboards, and reports).
-* **Tech:** Full Stack Architecture · Relational Databases · SEO & UX Optimization
-
-#### ⚽ MSI Fantasy Web App
-Interactive web application built to support over 900 simultaneous active users with optimized database architecture for low latency.
-* **Tech:** Full Stack Architecture · Backend & Frontend Optimization
-
-#### 📊 Data Processing & Analytics Pipelines
-Projects focused on data processing, analysis, and automated data pipelines using Python and Pandas.
-* **Tech:** Python · Pandas · MySQL · Automated Reporting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 🎯 Currently
+## 🚀 Projects
 
-* 🚀 Building high-performance full-stack web applications and custom ERP solutions at **Lumino Spark**.
-* 🔧 Developing secure REST APIs, backend services, and robust authentication mechanisms.
-* ☁️ Exploring advanced cloud deployment, infrastructure, and modern framework architectures.
-* 📚 Continuously learning and improving software engineering patterns.
+- **ASAMBAL** — Custom ERP + corporate web platform (Node · Express · React · PostgreSQL · Prisma)
+- **MSI Fantasy Web App** — 900+ concurrent users, backend/frontend architecture (Node · React · PostgreSQL)
+- **Event Management Platform** — Registrations, QR attendance, capacity control (Node · Express · React · Prisma)
+- **Data & Automation** — Financial reconciliation & reporting scripts (Python · Pandas)
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuidoPericotti&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoPericotti&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 📫 Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GuidoPericotti)
